@@ -1,0 +1,4 @@
+# Ignorar archivos y carpetas
+.env
+node_modules
+Ejercicios-Javascript/
